@@ -1,4 +1,4 @@
-# <h2 align="center"> Hi! 👋 I'm Felipe Pires! :computer: :video_game:</h2>  <h1 align="center"> Welcome to the Dark Side of the Force! :eyes: (Lies) :angel:  </h1>
+# <h2 align="center"> Hi! 👋 I'm Felipe Pires! :computer: :video_game:</h2>  <h2 align="center"> Welcome to the Dark Side of the Force! :eyes: (Lies) :angel:  </h2>
 
 - 🎓 I'm currently studying Database (BI and Big Data) at INFNET-RJ.
 - 🚀 I’m currently working as Support Analyst at Touch Health.
